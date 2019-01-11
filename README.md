@@ -2,7 +2,7 @@
 
 Fonts for all IDE. Create super cool editor environment, similar to operator mono. Some free fonts and Fira Code fonts are used to create the Ligature and Italics. Add the Fira Code and Italics version of the font you like to the font directory. Try  different italic fonts.
 
-## Sample scrrenshot
+## Demo
 
 ### Font Pacifico
 
