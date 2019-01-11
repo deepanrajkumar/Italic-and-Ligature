@@ -25,7 +25,13 @@ Add Fonts form Fira Code Family/Fira Code to your system. Now add FiraCode-Itali
 
 ### Step-2:
 
-1. You can install any theme with italic style. I use Operator Mono Dark Theme. Enable or disable Ligature to enable font ligature from Fira code.
+1. You can install any theme with italic style. I use [Operator Mono Dark Theme](https://marketplace.visualstudio.com/items?itemName=Valiantsin.operatormonodarktheme).
+
+2. Choose any theme from VS Code market place <https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Downloads>. Any theme with italic font support should work fine define the installed theme in settings ```"workbench.colorTheme": "Operator Mono Dark Theme",```
+3. Define the editor font family ```"editor.fontFamily": "Fira Code",``` 
+
+4. Enable or disable Ligature in ```"editor.fontLigatures": true,```
+
 
 ```
 cmd+shift+p > Open Settings (json)
@@ -42,7 +48,7 @@ Now ``` cmd+shift+p > Reload Window```
 
 ### Optional manual config 
 
-2. Same can be done with out themes. Using manual config 
+Same can be done with out themes. Using manual config 
 
 ```
 {
