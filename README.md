@@ -1,6 +1,6 @@
 # Italics-and-Ligature
 
-Fonts for all IDE. Create super cool editor environment, similar to operator mono. Some free fonts and Fira Code fonts are used to create the Ligature and Italics. Add the Fira Code and Italics version of the font you like to the font directory. Try  different italic fonts.
+Fonts for all IDE. Create cool editor font theme, similar to operator mono font environment. Free fonts(Handwritten italic) and Fira Code fonts are used to create the Ligature and Italic style. Add Fira Code and Italic font to the system font directory. Try different italic fonts to set up best custom editor view.
 
 ## Demo
 
