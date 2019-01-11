@@ -40,6 +40,8 @@ Add the following configuration to your user settings.
 ```
 Now ``` cmd+shift+p > Reload Window```
 
+### Optional manual config 
+
 2. Same can be done with out themes. Using manual config 
 
 ```
