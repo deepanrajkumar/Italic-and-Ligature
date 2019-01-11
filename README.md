@@ -5,13 +5,17 @@ Fonts for all IDE. Create super cool editor environment, similar to operator mon
 ## Sample scrrenshot
 
 ### Font Pacifico
-![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/demo-1.png)
 
-### Font Courgette
-![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/demo-2.png)
+![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/assets/demo-1.jpg)
 
 ### Font Gochi
-![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/demo-3.png)
+
+![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/assets/demo-2.jpg)
+
+### Font Courgette
+
+![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/assets/demo-3.jpg)
 
 ### Comming soon...
+
 More mono spaced font family will be added with support for ligature and italic font.
