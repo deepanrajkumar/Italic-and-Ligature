@@ -6,38 +6,38 @@ Fonts for all IDE. Create cool editor font theme, similar to operator mono font 
 
 ### Font Pacifico
 
-![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/assets/demo-1.jpg)
+![Sample image 1](assets/demo-1.jpg)
 
 ### Font Gochi
 
-![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/assets/demo-2.jpg)
+![Sample image 2](assets/demo-2.jpg)
 
 ### Font Courgette
 
-![alt text](https://raw.githubusercontent.com/deepanrajkumar/Italics-and-Ligature/master/assets/demo-3.jpg)
-
+![Sample image 3](assets/demo-3.jpg)
 
 ## VS Code settings
 
-### Step-1:
+### Step-1
 
 Add Fonts form Fira Code Family/Fira Code to your system. Now add FiraCode-Italic.ttf from other font directory(eg: Fira Code Family/Pacifico/FiraCode-Italic.ttf) to your system.
 
-### Step-2:
+### Step-2
 
 1. You can install any theme with italic style. I use [Operator Mono Dark Theme](https://marketplace.visualstudio.com/items?itemName=Valiantsin.operatormonodarktheme).
-Define the installed theme in settings ```"workbench.colorTheme": "Operator Mono Dark Theme",```
+   Define the installed theme in settings `"workbench.colorTheme": "Operator Mono Dark Theme",`
 
 2. Or choose any theme from VS Code market place <https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Downloads>.
-3. Define the editor font family ```"editor.fontFamily": "Fira Code",``` 
+3. Define the editor font family `"editor.fontFamily": "Fira Code",`
 
-4. Enable or disable Ligature in ```"editor.fontLigatures": true,```
-
+4. Enable or disable Ligature in `"editor.fontLigatures": true,`
 
 ```
 cmd+shift+p > Open Settings (json)
 ```
+
 Add the following configuration to your user settings.
+
 ```
 {
     "editor.fontLigatures": true,
@@ -45,11 +45,12 @@ Add the following configuration to your user settings.
     "workbench.colorTheme": "Operator Mono Dark Theme",
 }
 ```
-Now ``` cmd+shift+p > Reload Window```
 
-### Optional manual config 
+Now `cmd+shift+p > Reload Window`
 
-Same can be done with out themes. Using manual config 
+### Optional manual config
+
+Same can be done with out themes. Using manual config
 
 ```
 {
@@ -67,7 +68,7 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#4A4A4A"
                 }
             },
-    
+
             {
                 "name": "Keyword, Storage",
                 "scope": [
@@ -78,7 +79,7 @@ Same can be done with out themes. Using manual config
                     "fontStyle": "italic"
                 }
             },
-    
+
             {
                 "name": "Keyword Control",
                 "scope": [
@@ -88,7 +89,7 @@ Same can be done with out themes. Using manual config
                     "fontStyle": "italic"
                 }
             },
-    
+
             {
                 "scope": "entity.other.attribute-name",
                 "settings": {
@@ -96,8 +97,8 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#78dce8"
                 }
             },
-    
-    
+
+
             {
                 "name": "entity.name.method.js",
                 "scope": [
@@ -108,8 +109,8 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#82AAFF"
                 }
             },
-    
-    
+
+
             {
                 "name": "Language methods",
                 "scope": [
@@ -120,8 +121,8 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#FF5370"
                 }
             },
-    
-    
+
+
             {
                 "name": "HTML Attributes",
                 "scope": [
@@ -133,8 +134,8 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#FFCB6B"
                 }
             },
-    
-    
+
+
             {
                 "name": "Decorators",
                 "scope": [
@@ -146,8 +147,8 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#82AAFF"
                 }
             },
-    
-    
+
+
             {
                 "name": "ES7 Bind Operator",
                 "scope": [
@@ -158,7 +159,7 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#FF5370"
                 }
             },
-    
+
             {
                 "name": "Markup - Italic",
                 "scope": [
@@ -169,8 +170,8 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#f07178"
                 }
             },
-    
-    
+
+
             {
                 "name": "Markup - Bold-Italic",
                 "scope": [
@@ -186,7 +187,7 @@ Same can be done with out themes. Using manual config
                     //"foreground": "#f07178"
                 }
             },
-    
+
             {
                 "name": "Markup - Quote",
                 "scope": [
@@ -227,6 +228,6 @@ Same can be done with out themes. Using manual config
 }
 ```
 
-### Comming soon...
+### Comming soon
 
 More mono spaced font family will be added with support for ligature and italic font.
